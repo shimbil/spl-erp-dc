@@ -2,6 +2,8 @@
 
 **SPL ERP DC** is a client application of SPL ERP.
 
+![Screenshot](./screenshots/1.jpg)
+
 ## ✨ Features
 
 - ✅ Install erp on your windows machine.
